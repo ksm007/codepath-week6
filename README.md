@@ -1,11 +1,11 @@
-# Web Development Project 5 - Marvel Explorer (demo)
+# Web Development Project 5 - Marvel Explorer
 
-Submitted by: **(auto-filled)**
+Submitted by: **Kartik S Marathe**
 
 This web app: A small demo dashboard that fetches Marvel characters from the Marvel public API and
 displays a searchable, filterable list of characters with basic summary statistics.
 
-Time spent: **~0.5** hours (generated changes)
+Time spent: **2** hours
 
 ## Required Features
 
@@ -41,14 +41,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./src/assets/week6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
 GIF created with ...
 
-<!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
+
+<!-- Recommended tools:
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
@@ -59,7 +60,7 @@ For production, move signing to a server-side proxy.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Kartik Suhas Marathe
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

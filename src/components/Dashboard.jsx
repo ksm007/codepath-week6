@@ -48,7 +48,7 @@ export default function Dashboard() {
 
   return (
     <div className="dashboard">
-      <h1>Marvel Characters — Demo</h1>
+      <h1>Marvel Characters  </h1>
 
       <div className="controls">
         <input
